@@ -11,6 +11,7 @@ This app provides REST Api with a single /records end-point for "getir case stud
 * Run: npm test for running unit tests
 
 ### Api end-point - /records POST
+https://ekrem-getir-case-study-app.herokuapp.com/records
 
 You should request "post" to the api above with the required parameters.
 
